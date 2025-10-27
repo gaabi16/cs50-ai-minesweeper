@@ -41,7 +41,7 @@ pip3 install -r requirements.txt
 ```
 4. Run the file:
 ```bash
-python3 minesweeper.py
+python3 runner.py
 ```
 5. The AI will play a game of Minesweeper, displaying the moves it makes and the state of the board.
 
